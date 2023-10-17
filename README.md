@@ -23,7 +23,7 @@
 
 - 🤖 I'm learning **_Cyber Security_** and **_Penetration Testing_**🔐
 - 🏆 I usually work with **_JavaScript and PHP language_**
-- 📫 Ask me anything you want [**here**](https://github.com/Mininis/ThanhMinh/issues), If I were alive, I would reply within a day 😉
+- 📫 Ask me anything you want [**here**](https://github.com/MinMinis/MinMinis/issues), If I were alive, I would reply within a day 😉
 - 😄 Fun fact: I am always trying to learn new things and test it. (Especially with security knowledge)
 - 🕵🏻‍♂️ Interested in playing CTF and learning from it👨🏻‍💻
 
@@ -104,6 +104,15 @@
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+### 💻 Other Tool & Software
+
+<p>
+    <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23440235.svg?logo=adobexd&logoColor=pink"></a>
+    <a href="#"><img alt="Post Man" src="https://img.shields.io/badge/Postman-%23FFA500.svg?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%23ffffff.svg?logo=Jira&logoColor=blue"></a>
+    <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23ffffff.svg?logo=Confluence&logoColor=blue"></a>
 </p>
 
 <br>
