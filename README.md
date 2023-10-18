@@ -50,6 +50,7 @@
     <a href="https://github.com/search?q=user%3AMinMinis+language%3Asql&type=repositories"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=mysql&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AMinMinis+language%3Aruby&type=repositories"><img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%23FF0000.svg?logo=ruby&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AMinMinis+language%3Aassembly&type=repositories"><img alt="Assembly" src="https://img.shields.io/badge/Assembly%20-%23008000.svg?logo=assembly&logoColor=green"></a>
+    <a href="https://github.com/search?q=user%3AMinMinis+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23000000.svg?logo=python&logoColor=yellow"></a>
 
 ### 📚 Libraries
 
@@ -102,6 +103,7 @@
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20IDE-%23009296.svg?logo=Arduino&logoColor=white"></a>
 </p>
 
 ### 💻 Other Tool & Software
