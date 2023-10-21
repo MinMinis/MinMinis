@@ -32,11 +32,11 @@
 
 > 🫅 Top 1 Swinburne Health Hackathon 2022
 >
-> 🏆 Take part in L'OREAL brainstorm 2023 Contributions in the Year 2023
+> 🏆 Take part in L'OREAL brainstorm 2023
 
 <!-- > 🚫 Not Opted to Hire -->
 
->
+> 🔐 Take part in ASCIS 2023
 
 <!-- > 📜 22 Public Repositories -->
 
