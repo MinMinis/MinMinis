@@ -28,6 +28,23 @@
 
 <br>
 
+**🐱 Achievements and Activities**
+
+> 🫅 Top 1 Swinburne Health Hackathon 2022
+>
+> 🏆 Take part in L'OREAL brainstorm 2023 Contributions in the Year 2023
+
+<!-- > 🚫 Not Opted to Hire -->
+
+>
+
+<!-- > 📜 22 Public Repositories -->
+
+<!-- > 🔑 8 Private Repositories  -->
+
+>
+
+<br>
 ## 🔥 Streak Stats
 
 <p align="center">
