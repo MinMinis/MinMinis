@@ -34,9 +34,10 @@
 >
 > 🏆 Take part in L'OREAL brainstorm 2023
 >
-> 🔐 Take part in ASCIS 2023
+> 🔐 Take part in ASCIS 2023 (Top 39/95 in Quarter Final)
 
 <br>
+
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -60,6 +61,7 @@
     <a href="https://github.com/search?q=user%3AMinMinis+language%3Aruby&type=repositories"><img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%23FF0000.svg?logo=ruby&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AMinMinis+language%3Aassembly&type=repositories"><img alt="Assembly" src="https://img.shields.io/badge/Assembly%20-%23008000.svg?logo=assembly&logoColor=green"></a>
     <a href="https://github.com/search?q=user%3AMinMinis+language%3Apython&type=repositories"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23000000.svg?logo=python&logoColor=yellow"></a>
+    <a href="https://github.com/search?q=user%3AMinMinis+language%3Ac++&type=repositories"><img alt="C++" src="https://img.shields.io/badge/C++%20-white.svg?logo=C%2B%2B&logoColor=blue"></a>
 
 ### 📚 Libraries
 
@@ -106,6 +108,7 @@
     <!-- <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%25F05033.svg?logo=jenkins&logoColor=white"></a> -->
     <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/MacOS%20-%23000000.svg?logo=MacOS&logoColor=white"></a>
     <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP%20-%23ffffff.svg?logo=xampp&logoColor=orange"></a>
+
 </p>
 
 ### 💻 Coding Tools
@@ -122,6 +125,7 @@
     <a href="#"><img alt="Post Man" src="https://img.shields.io/badge/Postman-%23FFA500.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%23ffffff.svg?logo=Jira&logoColor=blue"></a>
     <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23ffffff.svg?logo=Confluence&logoColor=blue"></a>
+    <a href="#"><img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite%20-orange?logo=burp-suite&logoColor=white"></a>
 </p>
 
 <br>
