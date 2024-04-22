@@ -53,6 +53,8 @@
 
 <p>
     <a href="https://github.com/search?q=user%3AMinMinis+language%3Ajavascript&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23007396.svg?logo=javascript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AMinMinis+language%3Asolidity&type=repositories"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23FFFFFF.svg?logo=solidity&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3AMinMinis+language%3Akotlin&type=repositories"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23FFFFFF.svg?logo=kotlin"></a>
     <a href="https://github.com/search?q=user%3AMinMinis+language%3Aphp&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/PHP%20-%2400599C.svg?logo=php&logoColor=white"></a>
      <a href="https://github.com/search?q=user%3AMinMinis+language%3Ahtml&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AMinMinis+language%3Acss&type=repositories"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -74,6 +76,8 @@
 
 <p>
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="VueJS" src="https://img.shields.io/badge/Vue.js%20-%23FFFFFF.svg?logo=vue.js&logoColor=green"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-%23FFFFFF.svg?logo=django&logoColor=green"></a>
     <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-%23FFFFFF.svg?logo=nestjs&logoColor=red"></a>
     <a href="#"><img alt="NextJs" src="https://img.shields.io/badge/NextJs-%23000000.svg?logo=nextdotjs&logoColor=white"></a>
     <a href="#" style="color: #4AADB5;"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind%20CSS-%234AADB5.svg?logo=tailwindcss&logoColor=black"></a>
@@ -101,11 +105,7 @@
 
 <p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-3333ff?logo=linux&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-cc0066?logo=docker&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="Opera GX" src="https://img.shields.io/badge/Opera%20GX-3DDC84?logo=opera&logoColor=white"></a> -->
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%25F05033.svg?logo=jenkins&logoColor=white"></a> -->
     <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/MacOS%20-%23000000.svg?logo=MacOS&logoColor=white"></a>
     <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP%20-%23ffffff.svg?logo=xampp&logoColor=orange"></a>
 
@@ -116,6 +116,7 @@
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20IDE-%23009296.svg?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%234CDF8E.svg?logo=android-studio&logoColor=white"></a>
 </p>
 
 ### 💻 Other Tool & Software
