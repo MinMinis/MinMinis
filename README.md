@@ -149,10 +149,8 @@
   <i>I am welcome with anyone who want to study about cyber security</i>
   <p align="center">
     	<code><a href="https://www.facebook.com/Thanhminnn"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
-	<code><a href="https://www.linkedin.com/in/thanh-minh-tr%E1%BA%A7n-80428026b/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
-	<code><a href="https://www.instagram.com/_thanhminh.tr_/"><img width="30px" src="./images/instagram.png" title="Instagram"/></a></code>
-	<!-- <code><a href="https://twitter.com/MinMinis"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code> -->
-	<code><a href="mailto:tranthanhminh17072003@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+	<code><a href="https://www.linkedin.com/in/thanh-minh-tr%E1%BA%A7n-80428026b/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code><code><a href="mailto:tranthanhminh17072003@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+
   </p>
 
   <p align="center">
