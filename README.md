@@ -1,12 +1,20 @@
 ![alt text](./images/header.svg)
 
+<div align="center">
+  <a href="https://www.ey.com">
+    <img src="https://img.shields.io/badge/EY-Cybersecurity%20Consultant-FFB200?style=for-the-badge&logo=ey&logoColor=white" alt="EY Cybersecurity"/>
+  </a>
+  <img src="https://img.shields.io/badge/Role-Penetration%20Tester-red?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Pentester"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Cyber+Security;Aim%20To%20Be%20Pentester;Always%20learning%20new%20things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Cybersecurity+Consultant+at+EY;Penetration+Tester;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=380&height=45">
 </p>
 
 <p align="justify">
   <em>
-  I'm Minh, a passionate programmer who thrives on the joy of coding and cyber security! With a strong foundation in web development, I enjoy coding for both front-end and back-end <img src="./images/Designer.gif" width="30px">. My journey began as a web developer, and I aspire to delve into the realm of penetration testing, drawing insights from various resources to enhance my skills <img src="./images/Developer.gif" width="30px">. Beyond personal growth, I find fulfillment in sharing newfound knowledge and collaborating with others to amplify the learning experience. The dynamic nature of coding is not just an occupation for me; it's a rewarding adventure where creativity meets problem-solving. Each project is an opportunity to learn and overcome challenges, making the entire process incredibly gratifying. The feeling of accomplishment when tackling coding obstacles is something I value immensely, and I wouldn't trade this journey for anything else! 🚀 During studying at school, I have tried to get high marks with high quality of work for improving GPA 🥇
+  I'm Minh, a Cybersecurity Consultant at EY specializing in penetration testing <img src="./images/Designer.gif" width="30px">. With a strong background in full-stack development, I've evolved into the cybersecurity realm, where I combine my technical expertise with security knowledge to protect and strengthen systems <img src="./images/Developer.gif" width="30px">. I'm passionate about discovering vulnerabilities, sharing knowledge, and continuously learning in this ever-evolving field 🛡️
   </em>
   <br>
 </p>
@@ -31,8 +39,6 @@
 **🐱 Achievements and Activities**
 
 > 🫅 Top 1 Swinburne Health Hackathon 2022
->
-> 🏆 Take part in L'OREAL brainstorm 2023
 >
 > 🔐 Take part in ASCIS 2023 (Top 39/95 in Quarter Final)
 
